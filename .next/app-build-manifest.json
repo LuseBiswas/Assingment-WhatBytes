@@ -1,0 +1,54 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/chunks/app/_not-found/page-10579ee660d0f507.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/css/6761817e4c36e475.css",
+      "static/chunks/231-10b365ea48932337.js",
+      "static/chunks/123-9522fbaebc5507bd.js",
+      "static/chunks/app/layout-224dec7266178ba8.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/chunks/231-10b365ea48932337.js",
+      "static/chunks/app/dashboard/page-f306559e4c145af7.js"
+    ],
+    "/internship/page": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/chunks/231-10b365ea48932337.js",
+      "static/chunks/app/internship/page-6dad6a2389d1f78a.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/chunks/app/page-f1feecfbf4f80a3c.js"
+    ],
+    "/skill-test/page": [
+      "static/chunks/webpack-5def70eb935cb1c4.js",
+      "static/chunks/fd9d1056-1a8bf09aeb828dfe.js",
+      "static/chunks/23-d6eec60ee43c24dd.js",
+      "static/chunks/main-app-1393c419739e2a47.js",
+      "static/chunks/231-10b365ea48932337.js",
+      "static/chunks/123-9522fbaebc5507bd.js",
+      "static/chunks/754-8572a449e55009af.js",
+      "static/chunks/app/skill-test/page-bfff5da2bc1fa973.js"
+    ]
+  }
+}
